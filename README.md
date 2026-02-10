@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jesús Beltrán | Desarrollador Full Stack Junior
 
-<!--
-**Hipot26/Hipot26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 ¡Hola! Soy Jesús, un desarrollador en crecimiento orientado hacia soluciones digitales funcionales y elegantes. Cuando no estoy programando, me encontrarás disfrutando de un videojuego, realizando manualidades, pasando tiempo de ocio o absorto  en un buen libro. Lo que más me mueve es el **aprendizaje constante** y la **curiosidad** por entender cómo funcionan las cosas que ofrece este mundo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías aprendidas
+
+**🔙 Backend:** PHP · .NET (C#) · APIs REST  
+**🎨 Frontend:** Vue.js · HTML5 · CSS3 · JavaScript 
+**🗃️ Bases de datos:** MySQL · PostgreSQL · SQL  
+**⚙️ Herramientas:** GitBash · Bitbucket · VS Code
+
+## 🎓 Formación
+
+### 📚 **Ingeniería de Sistemas**  
+*Cursando* | Fundación Universitaria Área Andina -- Becado
+
+### 📜 **Tecnólogo en Control Ambiental**  
+SENA
+
+## 🌍 Idiomas
+
+🇪🇸 Español (Nativo)  
+🇬🇧 Inglés (Básico/Intermedio)
+
+---
